@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Abhinavh_Leet?theme=dark&font=Marcellus&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Abhinavh_Leet?theme=dark&font=Roboto&ext=activity)
 <!--
 **Abhinavh-2004/Abhinavh-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
