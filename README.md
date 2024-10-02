@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+
+I'm a Computer Science student from **Madras Institute of Technology, Chennai**. I have a strong interest in **Operating Systems** and enjoy solving complex **Problem Solving** challenges.
+
+💻 My preferred programming languages: **Java, C, and Python**.  
+🌱 Currently exploring advanced topics in system design and algorithms.  
+🚀 Open to collaborating on **open-source** projects and contributing to the developer community.  
+🔗 Let's connect and create something amazing together!
