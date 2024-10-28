@@ -1,4 +1,7 @@
+
 ### Hi there 👋
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Abhinavh_Leet&theme=black" alt="LeetCode Badges"/>
 
 I'm a Computer Science student from **Madras Institute of Technology, Chennai**. I have a strong interest in **Operating Systems** and enjoy solving complex **Problem Solving** challenges.
 
